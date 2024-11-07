@@ -5,3 +5,4 @@ Update documentation [RbRyAz] line 5.2
 Update documentation [SMCdQu] line 8.1
 Improve performance [pt65QZ] line 9.3
 Update documentation [COcBUH] line 10.1
+Refactor codebase with Z [gwPBB5] line 11.2
